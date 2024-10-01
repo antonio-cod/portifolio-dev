@@ -1,2 +1,22 @@
 # portifolio-dev
-Lembre-se que o intuito de um desafio é te impulsionar, por isso, dependendo do desafio, pode ser que você precise ir além do que foi discutido em sala de aula.  Mas isso não é algo ruim: ter autonomia para buscar informações extras é uma habilidade muito valiosa e vai ser ótimo pra você treinar ela aqui com a gente!
+Portfolio Dev é um site desktop de portfólio para desenvolvedores, com links para projetos e contato do profissional. 
+
+Esse é um dos desafios práticos da formação Fullstack, um dos conteúdos disponíveis para alunos da Rocketseat. 
+
+# figma
+https://www.figma.com/community/file/1387080701963671866
+
+-------------------------------------
+
+# Nesta aplicação vou trabalhar com
+
+- Criação de layouts com CSS;
+- Posicionamento de elementos;
+- Variáveis CSS;
+- CSS Flexbox;
+- CSS Grid;
+- pseudo-class e pseudo-elements;
+- Responsividade 
+- Links
+
+
