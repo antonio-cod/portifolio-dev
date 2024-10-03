@@ -34,3 +34,18 @@
 
  
 }
+
+body {
+  max-width: 100%;
+  color: var(--gray-300);
+}
+
+.container {
+  max-width: 1040px;
+  margin-inline: auto;
+}
+
+h1 {
+  color: var(--gray-600);
+  font: var(--title-lg);
+}
